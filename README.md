@@ -21,15 +21,12 @@
   
 
 **CS Fundamentals**  
-📘 Data Structures & Algorithms | ⚡ Problem Solving  
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-007396?style=flat&logo=dependabot&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6F00?style=flat&logo=codeforces&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-7952B3?style=flat&logo=java&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat&logo=mysql&logoColor=white) 
 
 ---
 
 ## 🌐 Let's Connect
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adhyyanbabbar)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhyyan-babbar-7549772b9/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adhyyanbabbar/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhyyan0180.be23@chitkara.edu.in)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adhyyanbabbar)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhyyan-babbar-7549772b9/)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adhyyanbabbar/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhyyan0180.be23@chitkara.edu.in)  
 
 ---
 
