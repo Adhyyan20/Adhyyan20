@@ -31,8 +31,8 @@
 ---
 
 ## 📊 GitHub Stats
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Adhyyan20&theme=tokyonight&hide_border=true) -->  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adhyyan20&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Adhyyan20&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhyyan20&layout=compact&theme=tokyonight)  
 
 ---
